@@ -34,11 +34,7 @@ CLOCK: [2021-10-23 Sat 15:09]
 :END:
 
 * TODO leetcode                                                       :@company:
-DEADLINE: <2021-10-30 Sat 23:00 +1d> SCHEDULED: <2021-10-30 Sat 21:00 +1d>
-:LOGBOOK:
-CLOCK: [2021-10-29 Fri 21:04]
-:END:
-[2021-10-29 Fri 21:04]
+DEADLINE: <2021-10-30 Fri 23:00 +1d> SCHEDULED: <2021-10-30 Fri 21:00 +1d>
 
 * TODO basic_algrothim                                                :@company:
-DEADLINE: <2021-10-30 Sun 13:20 +1d> SCHEDULED: <2021-10-30 Sun 12:00 +1d>
+DEADLINE: <2021-10-30 Fri 13:20 +1d> SCHEDULED: <2021-10-30 Fri 12:00 +1d>
