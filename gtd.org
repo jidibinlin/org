@@ -1,0 +1,9 @@
+* TODO leetcode                                                          :@company:
+DEADLINE: <2021-10-29 Fri 23:00 +1d> SCHEDULED: <2021-10-29 Fri 21:00 +1d>
+:LOGBOOK:
+CLOCK: [2021-10-29 Fri 21:04]
+:END:
+[2021-10-29 Fri 21:04]
+* TODO basic_algrothim                                                :@company:
+DEADLINE: <2021-10-29 Fri 13:20 +1d> SCHEDULED: <2021-10-29 Fri 12:00 +1d>
+
