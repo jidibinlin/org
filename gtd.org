@@ -33,8 +33,12 @@ CLOSED: [2021-10-30 Sat 09:40] DEADLINE: <2021-10-23 Sat 18:30> SCHEDULED: <2021
 CLOCK: [2021-10-23 Sat 15:09]--[2021-10-30 Sat 10:26] => 163:17
 :END:
 
-* DOING leetcode                                                      :@company:
-DEADLINE: <2021-10-30 Sun 23:00 +1d> SCHEDULED: <2021-10-30 Sun 21:00 +1d>
+* TODO leetcode                                                       :@company:
+DEADLINE: <2021-10-31 Sun 23:00 +1d> SCHEDULED: <2021-10-31 Sun 21:00 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2021-10-31 Sun 13:36]
+:END:
+- State "DONE"       from "DOING"      [2021-10-31 Sun 13:36]
 :LOGBOOK:
 CLOCK: [2021-10-30 Sat 12:02]--[2021-10-30 Sat 12:02] =>  0:00
 CLOCK: [2021-10-30 Sat 11:23]--[2021-10-30 Sat 12:02] =>  0:39
@@ -43,8 +47,12 @@ CLOCK: [2021-10-30 Sat 10:30]--[2021-10-30 Sat 10:30] =>  0:00
 :END:
 
 
-* DOING basic_algrothim                                               :@company:
-DEADLINE: <2021-10-30 Fri 13:20 +1d> SCHEDULED: <2021-10-30 Fri 12:00 +1d>
+* TODO basic_algrothim                                                :@company:
+DEADLINE: <2021-10-31 Sun 13:20 +1d> SCHEDULED: <2021-10-31 Sun 12:00 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2021-10-31 Sun 13:36]
+:END:
+- State "DONE"       from "DOING"      [2021-10-31 Sun 13:36]
 :LOGBOOK:
 CLOCK: [2021-10-30 Sat 12:27]
 :END:
