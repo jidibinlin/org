@@ -33,12 +33,15 @@ CLOSED: [2021-10-30 Sat 09:40] DEADLINE: <2021-10-23 Sat 18:30> SCHEDULED: <2021
 CLOCK: [2021-10-23 Sat 15:09]--[2021-10-30 Sat 10:26] => 163:17
 :END:
 
-* TODO leetcode                                                       :@company:
-DEADLINE: <2021-10-31 Sun 23:00 +1d> SCHEDULED: <2021-10-31 Sun 21:00 +1d>
+* DOING leetcode                                                      :@company:
+DEADLINE: <2021-11-03 Wed 23:00 +1d> SCHEDULED: <2021-11-03 Wed 21:00 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2021-10-31 Sun 13:36]
+:LAST_REPEAT: [2021-11-03 Wed 21:44]
 :END:
-- State "DONE"       from "DOING"      [2021-10-31 Sun 13:36]
+- State "CANCEL"     from "TODO"       [2021-11-03 Wed 21:44]
+- State "DONE"       from "DOING"      [2021-11-02 Tue 11:05]
+- State "DONE"       from "TODO"       [2021-11-01 Mon 12:35]
+- State "DONE"       from "DOING"      [2021-11-01 Mon 12:34]
 :LOGBOOK:
 CLOCK: [2021-10-30 Sat 12:02]--[2021-10-30 Sat 12:02] =>  0:00
 CLOCK: [2021-10-30 Sat 11:23]--[2021-10-30 Sat 12:02] =>  0:39
@@ -48,12 +51,19 @@ CLOCK: [2021-10-30 Sat 10:30]--[2021-10-30 Sat 10:30] =>  0:00
 
 
 * TODO basic_algrothim                                                :@company:
-DEADLINE: <2021-10-31 Sun 13:20 +1d> SCHEDULED: <2021-10-31 Sun 12:00 +1d>
+DEADLINE: <2021-11-05 Fri 13:20 +1d> SCHEDULED: <2021-11-05 Fri 12:00 +1d>
 :PROPERTIES:
-:LAST_REPEAT: [2021-10-31 Sun 13:36]
+:LAST_REPEAT: [2021-11-03 Wed 22:15]
 :END:
-- State "DONE"       from "DOING"      [2021-10-31 Sun 13:36]
+- State "CANCEL"     from "TODO"       [2021-11-03 Wed 22:15]
+- State "CANCEL"     from "TODO"       [2021-11-03 Wed 22:14]
+- State "CANCEL"     from "TODO"       [2021-11-03 Wed 21:44]
+- State "DONE"       from "TODO"       [2021-11-02 Tue 11:05]
+- State "DONE"       from "TODO"       [2021-11-01 Mon 17:15]
+- State "DONE"       from "DOING"      [2021-11-01 Mon 15:22]
+- State "DONE"       from "TODO"       [2021-11-01 Mon 12:35]
+- State "DONE"       from "DOING"      [2021-10-30 Sat 14:41]
 :LOGBOOK:
-CLOCK: [2021-10-30 Sat 12:27]
+CLOCK: [2021-10-30 Sat 12:27]--[2021-10-30 Sat 14:41] =>  2:14
 :END:
 
