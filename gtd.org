@@ -5,12 +5,10 @@ CLOCK: [2021-10-20 Wed 16:39]--[2021-10-22 Fri 14:13] => 45:34
 :END:
 [2021-10-20 Wed 16:39]
 [[file:/mnt/d/x4-server-trunk/src/global/yyact/dark_lord_store.lua::DarkLordStoreActivity = class("res.config.DarkLordStoreActivity","ActivityBase")]]
-* DONE ShenQiSecKillActivity
-CLOSED: [2021-10-22 Fri 20:32]
+* DONE ShenQiSecKillActivity CLOSED: [2021-10-22 Fri 20:32]
 :LOGBOOK:
 CLOCK: [2021-10-21 Thu 11:53]--[2021-10-21 Thu 14:13] =>  2:20
 CLOCK: [2021-10-20 Wed 21:55] finish 90% left proto to finish
-
 :END:
 [2021-10-20 Wed 21:55]
 [[file:/mnt/d/x4-server-trunk/src/global/yyact/shenyu_seckill.lua::ShenYuSecKillActivity = class("res.config.ShenYuSecKillActivity","ActivityBase")]]
