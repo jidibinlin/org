@@ -1,0 +1,3 @@
+*  consider concurrency situation of Cluster 
+[2022-02-08 Tue 21:43]
+[[file:~/Documents/goactor/actor/cluster.go::func NewCluster(ip string, port int, actorSystem *ActorSystem) *Cluster {]]

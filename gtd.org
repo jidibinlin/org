@@ -1,67 +1,52 @@
-* DONE finish DarkLordStoreActivity
-CLOSED: [2021-10-20 Wed 21:55]
+* DONE 倒垃圾
+CLOSED: [2022-02-06 Sun 17:28]
 :LOGBOOK:
-CLOCK: [2021-10-20 Wed 16:39]--[2021-10-22 Fri 14:13] => 45:34
+CLOCK: [2022-02-06 Sun 17:14]--[2022-02-06 Sun 17:14] =>  0:00
 :END:
-[2021-10-20 Wed 16:39]
-[[file:/mnt/d/x4-server-trunk/src/global/yyact/dark_lord_store.lua::DarkLordStoreActivity = class("res.config.DarkLordStoreActivity","ActivityBase")]]
-* DONE ShenQiSecKillActivity CLOSED: [2021-10-22 Fri 20:32]
+[2022-02-06 Sun 17:14]
+* DONE 查找有关h影片对大脑影响的资料
+CLOSED: [2022-02-06 Sun 18:04]
 :LOGBOOK:
-CLOCK: [2021-10-21 Thu 11:53]--[2021-10-21 Thu 14:13] =>  2:20
-CLOCK: [2021-10-20 Wed 21:55] finish 90% left proto to finish
+CLOCK: [2022-02-06 Sun 17:16]--[2022-02-06 Sun 17:16] =>  0:00
 :END:
-[2021-10-20 Wed 21:55]
-[[file:/mnt/d/x4-server-trunk/src/global/yyact/shenyu_seckill.lua::ShenYuSecKillActivity = class("res.config.ShenYuSecKillActivity","ActivityBase")]]
-* DONE want protoss activity
-CLOSED: [2021-10-30 Sat 09:41] SCHEDULED: <2021-10-25 Mon>
+[2022-02-06 Sun 17:16]
+* DONE 冥想15分钟
+CLOSED: [2022-02-06 Sun 19:00]
 :LOGBOOK:
-CLOCK: [2021-10-22 Fri 20:31]--[2021-10-22 Fri 20:31] =>  0:00 finish left gameLog
-CLOCK: [2021-10-22 Fri 17:13]--[2021-10-22 Fri 17:46] =>  0:33 tournament finish : bug to fix?
-CLOCK: [2021-10-22 Fri 17:04]--[2021-10-22 Fri 17:12] =>  0:08 finish fuben
-CLOCK: [2021-10-22 Fri 14:13]--[2021-10-22 Fri 15:17] =>  1:04 
-CLOCK: [2021-10-21 Thu 15:25]--[2021-10-21 Thu 15:46] =>  0:21 
-
+CLOCK: [2022-02-06 Sun 17:21]--[2022-02-06 Sun 17:22] =>  0:01
 :END:
-[2021-10-21 Thu 15:25]
-[[file:/mnt/d/x4-server-trunk/src/global/yyact/want_protoss.lua::WantProtossActivity = class("res.config.WantProtossActivity", "ActivityBase")]]
-
-* DONE watch algorithm 1 hour
-CLOSED: [2021-10-30 Sat 09:40] DEADLINE: <2021-10-23 Sat 18:30> SCHEDULED: <2021-10-23 Sat>
+[2022-02-06 Sun 17:21]
+* DONE 吃饭 
+CLOSED: [2022-02-06 Sun 18:28]
 :LOGBOOK:
-CLOCK: [2021-10-23 Sat 15:09]--[2021-10-30 Sat 10:26] => 163:17
+CLOCK: [2022-02-06 Sun 18:04]--[2022-02-06 Sun 18:04] =>  0:00
 :END:
-
-* DOING leetcode                                                      :@company:
-DEADLINE: <2021-11-03 Wed 23:00 +1d> SCHEDULED: <2021-11-03 Wed 21:00 +1d>
-:PROPERTIES:
-:LAST_REPEAT: [2021-11-03 Wed 21:44]
-:END:
-- State "CANCEL"     from "TODO"       [2021-11-03 Wed 21:44]
-- State "DONE"       from "DOING"      [2021-11-02 Tue 11:05]
-- State "DONE"       from "TODO"       [2021-11-01 Mon 12:35]
-- State "DONE"       from "DOING"      [2021-11-01 Mon 12:34]
+[2022-02-06 Sun 18:04]
+* DONE goactor编写
+CLOSED: [2022-02-06 Sun 21:29] SCHEDULED: <2022-02-06 Sun 19:04>
 :LOGBOOK:
-CLOCK: [2021-10-30 Sat 12:02]--[2021-10-30 Sat 12:02] =>  0:00
-CLOCK: [2021-10-30 Sat 11:23]--[2021-10-30 Sat 12:02] =>  0:39
-CLOCK: [2021-10-30 Sat 10:33]--[2021-10-30 Sat 11:23] =>  0:50
-CLOCK: [2021-10-30 Sat 10:30]--[2021-10-30 Sat 10:30] =>  0:00
+CLOCK: [2022-02-06 Sun 19:03]--[2022-02-06 Sun 21:29] =>  2:26
 :END:
-
-
-* TODO basic_algrothim                                                :@company:
-DEADLINE: <2021-11-05 Fri 13:20 +1d> SCHEDULED: <2021-11-05 Fri 12:00 +1d>
-:PROPERTIES:
-:LAST_REPEAT: [2021-11-03 Wed 22:15]
-:END:
-- State "CANCEL"     from "TODO"       [2021-11-03 Wed 22:15]
-- State "CANCEL"     from "TODO"       [2021-11-03 Wed 22:14]
-- State "CANCEL"     from "TODO"       [2021-11-03 Wed 21:44]
-- State "DONE"       from "TODO"       [2021-11-02 Tue 11:05]
-- State "DONE"       from "TODO"       [2021-11-01 Mon 17:15]
-- State "DONE"       from "DOING"      [2021-11-01 Mon 15:22]
-- State "DONE"       from "TODO"       [2021-11-01 Mon 12:35]
-- State "DONE"       from "DOING"      [2021-10-30 Sat 14:41]
+[2022-02-06 Sun 19:01]
+* TODO 
 :LOGBOOK:
-CLOCK: [2021-10-30 Sat 12:27]--[2021-10-30 Sat 14:41] =>  2:14
+CLOCK: [2022-02-07 Mon 13:12]--[2022-02-07 Mon 13:12] =>  0:00
 :END:
-
+[2022-02-07 Mon 13:12]
+* DONE 买面纸，买袜子
+CLOSED: [2022-02-09 Wed 16:07]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 09:01]--[2022-02-09 Wed 09:02] =>  0:01
+:END:
+[2022-02-09 Wed 09:01]
+* DONE find resume
+CLOSED: [2022-02-14 Mon 09:52]
+:LOGBOOK:
+CLOCK: [2022-02-13 Sun 13:48]--[2022-02-13 Sun 13:50] =>  0:02
+:END:
+[2022-02-13 Sun 13:48]
+* TODO Build you own blog site
+:LOGBOOK:
+CLOCK: [2022-02-16 Wed 14:08]--[2022-02-16 Wed 14:08] =>  0:00
+:END:
+[2022-02-16 Wed 14:08]

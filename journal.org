@@ -1,12 +1,277 @@
+* 2022
 
+** 2022-02 February
 
-* 2021
-
-** 2021-10 October
-
-*** 2021-10-29 Friday
-****  Leetcode 
+*** 2022-02-06 Sunday
+**** DONE rise 
+CLOSED: [2022-02-07 Mon 13:12] SCHEDULED: <2022-02-07 Mon 08:30>
 :LOGBOOK:
-CLOCK: [2021-10-29 Fri 20:56]--[2021-10-29 Fri 20:57] =>  0:01
+CLOCK: [2022-02-06 Sun 21:30]--[2022-02-07 Mon 13:14] => 15:44
 :END:
-[2021-10-29 Fri 20:56]
+[2022-02-06 Sun 21:29]
+
+*** 2022-02-07 Monday
+**** DONE reading 
+CLOSED: [2022-02-07 Mon 16:34] SCHEDULED: <2022-02-07 Mon 13:15>
+:LOGBOOK:
+CLOCK: [2022-02-07 Mon 13:16]--[2022-02-07 Mon 14:41] =>  1:25
+:END:
+[2022-02-07 Mon 13:15]
+**** DONE coding goactor 
+CLOSED: [2022-02-08 Tue 21:58]
+:LOGBOOK:
+CLOCK: [2022-02-08 Tue 21:32]--[2022-02-08 Tue 21:58] =>  0:26
+:END:
+[2022-02-07 Mon 16:34]
+
+*** 2022-02-08 Tuesday
+**** TODO rise and build body
+DEADLINE: <2022-02-22 Tue 08:10 +1d> SCHEDULED: <2022-02-22 Tue 07:30 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:25]
+:END:
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:25]
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:24]
+- State "DONE"       from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "TODO"       [2022-02-18 Fri 08:57]
+- State "DONE"       from "TODO"       [2022-02-17 Thu 08:15]
+- State "DONE"       from "DOING"      [2022-02-16 Wed 09:49]
+- State "DONE"       from "TODO"       [2022-02-15 Tue 08:46]
+- State "DONE"       from "TODO"       [2022-02-14 Mon 08:58]
+- State "DONE"       from "TODO"       [2022-02-13 Sun 13:48]
+- State "DONE"       from "DOING"      [2022-02-12 Sat 08:52]
+- State "DONE"       from "TODO"       [2022-02-11 Fri 08:56]
+- State "DONE"       from ""           [2022-02-10 Thu 08:54]
+- State "DONE"       from ""           [2022-02-09 Wed 08:34]
+:LOGBOOK:
+:END:
+[2022-02-08 Tue 21:22]
+**** DONE coding goactor 
+CLOSED: [2022-02-21 Mon 21:46] DEADLINE: <2022-02-22 Tue 11:00 +0d> SCHEDULED: <2022-02-22 Tue 09:00 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:25]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:25]
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 09:17]
+- State "CANCEL"     from "DOING"      [2022-02-19 Sat 09:17]
+- State "DONE"       from "DOING"      [2022-02-17 Thu 13:11]
+- State "DONE"       from "DOING"      [2022-02-16 Wed 12:59]
+- State "DONE"       from "DOING"      [2022-02-15 Tue 12:38]
+- State "DONE"       from "DOING"      [2022-02-14 Mon 11:04]
+- State "DONE"       from "TODO"       [2022-02-14 Mon 09:23]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:48]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:47]
+- State "CANCEL"     from "TODO"       [2022-02-11 Fri 13:37]
+- State "CANCEL"     from "TODO"       [2022-02-10 Thu 09:03]
+- State "DONE"       from "DOING"      [2022-02-09 Wed 11:05]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 09:02]--[2022-02-09 Wed 11:05] =>  2:03
+CLOCK: [2022-02-09 Wed 08:54]--[2022-02-09 Wed 09:01] =>  0:07
+CLOCK: [2022-02-08 Tue 21:26]--[2022-02-08 Tue 21:27] =>  0:01
+:END:
+[2022-02-08 Tue 21:26]
+
+*** 2022-02-09 Wednesday
+**** DONE [#A] leetcode time 
+CLOSED: [2022-02-21 Mon 21:46] DEADLINE: <2022-02-22 Tue 15:30 +0d> SCHEDULED: <2022-02-22 Tue 14:00 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:25]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:25]
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:23]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 17:27]
+- State "CANCEL"     from "DOING"      [2022-02-19 Sat 09:17]
+- State "DONE"       from "DOING"      [2022-02-17 Thu 16:16]
+- State "DONE"       from "DOING"      [2022-02-16 Wed 15:31]
+- State "DONE"       from "DOING"      [2022-02-15 Tue 15:44]
+- State "DONE"       from "DOING"      [2022-02-14 Mon 16:55]
+- State "DONE"       from "DOING"      [2022-02-13 Sun 15:30]
+- State "DONE"       from "DOING"      [2022-02-12 Sat 13:10]
+- State "DONE"       from "DOING"      [2022-02-11 Fri 20:32]
+- State "CANCEL"     from "TODO"       [2022-02-09 Thu 09:03]
+- State "CANCEL"     from "DOING"      [2022-02-09 Wed 16:00]
+:LOGBOOK:
+CLOCK: [2022-02-13 Sun 14:19]--[2022-02-13 Sun 15:29] =>  1:10
+CLOCK: [2022-02-09 Wed 14:06]--[2022-02-09 Wed 14:06] =>  0:00
+:END:
+[2022-02-09 Wed 14:05]
+**** DONE [#A] leetcode time 
+CLOSED: [2022-02-21 Mon 21:46] DEADLINE: <2022-02-22 Tue 17:30 +0d> SCHEDULED: <2022-02-22 Tue 15:40 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:24]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 17:27]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "TODO"       [2022-02-17 Thu 21:23]
+- State "DONE"       from "DOING"      [2022-02-16 Wed 19:14]
+- State "DONE"       from "DOING"      [2022-02-15 Tue 18:47]
+- State "DONE"       from "DOING"      [2022-02-14 Mon 17:24]
+- State "DONE"       from "DOING"      [2022-02-13 Sun 17:21]
+- State "DONE"       from "TODO"       [2022-02-11 Fri 20:32]
+- State "CANCEL"     from "TODO"       [2022-02-10 Thu 09:03]
+- State "DONE"       from ""           [2022-02-09 Wed 17:31]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 14:09]--[2022-02-09 Wed 14:10] =>  0:01
+:END:
+[2022-02-09 Wed 14:09]
+**** DONE read <<clean code>> 
+CLOSED: [2022-02-21 Mon 21:46] DEADLINE: <2022-02-22 Tue 18:40 +0d> SCHEDULED: <2022-02-22 Tue 18:10 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:25]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:25]
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 17:27]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "TODO"       [2022-02-17 Thu 21:23]
+- State "DONE"       from "TODO"       [2022-02-16 Wed 19:14]
+- State "DONE"       from "DOING"      [2022-02-15 Tue 20:18]
+- State "DONE"       from "DOING"      [2022-02-14 Mon 19:12]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 18:22]
+- State "DONE"       from "TODO"       [2022-02-13 Sun 13:47]
+- State "DONE"       from "TODO"       [2022-02-11 Fri 20:32]
+- State "CANCEL"     from "TODO"       [2022-02-11 Fri 20:32]
+- State "CANCEL"     from "TODO"       [2022-02-10 Thu 20:59]
+- State "CANCEL"     from "DOING"      [2022-02-09 Wed 19:03]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 14:11]--[2022-02-09 Wed 14:11] =>  0:00
+:END:
+[2022-02-09 Wed 14:10]
+**** DONE [#A] read <<algorithms>> 
+CLOSED: [2022-02-21 Mon 21:46] DEADLINE: <2022-02-22 Wed 20:50 +0d> SCHEDULED: <2022-02-22 Wed 18:45 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:25]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:25]
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:25]
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:23]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 17:27]
+- State "DONE"       from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "TODO"       [2022-02-17 Thu 21:23]
+- State "DONE"       from "DOING"      [2022-02-16 Wed 21:17]
+- State "DONE"       from "TODO"       [2022-02-15 Tue 21:16]
+- State "DONE"       from "DOING"      [2022-02-14 Mon 21:17]
+- State "CANCEL"     from "TODO"       [2022-02-14 Mon 11:05]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:47]
+- State "CANCEL"     from "TODO"       [2022-02-11 Fri 20:32]
+- State "CANCEL"     from "TODO"       [2022-02-10 Thu 20:59]
+- State "CANCEL"     from "TODO"       [2022-02-09 Wed 20:40]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 14:14]--[2022-02-09 Wed 14:15] =>  0:01
+:END:
+[2022-02-09 Wed 14:14]
+**** DONE [#A] read <<the go programming language>> 
+CLOSED: [2022-02-21 Mon 21:46] DEADLINE: <2022-02-22 Tue 21:59 +0d> SCHEDULED: <2022-02-22 Tue 21:00 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:25]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:25]
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:23]
+- State "DONE"       from "TODO"       [2022-02-19 Sat 17:27]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "TODO"       [2022-02-17 Thu 21:23]
+- State "CANCEL"     from "TODO"       [2022-02-16 Wed 21:17]
+- State "CANCEL"     from "TODO"       [2022-02-15 Tue 21:16]
+- State "CANCEL"     from "TODO"       [2022-02-14 Mon 21:49]
+- State "CANCEL"     from "TODO"       [2022-02-14 Mon 11:05]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:47]
+- State "CANCEL"     from "TODO"       [2022-02-11 Fri 20:32]
+- State "DONE"       from "DOING"      [2022-02-10 Thu 22:01]
+- State "DONE"       from "DOING"      [2022-02-09 Wed 22:06]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 14:19]--[2022-02-09 Wed 14:20] =>  0:01
+:END:
+[2022-02-09 Wed 14:17]
+**** DONE [#A] build body 
+CLOSED: [2022-02-21 Mon 21:45] DEADLINE: <2022-02-22 Tue 22:30 +0d> SCHEDULED: <2022-02-22 Tue 22:00 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:24]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:23]
+- State "DONE"       from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "TODO"       [2022-02-18 Fri 08:57]
+- State "DONE"       from "TODO"       [2022-02-17 Thu 08:15]
+- State "DONE"       from "DOING"      [2022-02-16 Wed 09:02]
+- State "DONE"       from "TODO"       [2022-02-14 Mon 23:51]
+- State "CANCEL"     from "TODO"       [2022-02-14 Mon 11:05]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:47]
+- State "DONE"       from "TODO"       [2022-02-11 Fri 08:56]
+- State "DONE"       from "DOING"      [2022-02-11 Fri 08:56]
+- State "DONE"       from "DOING"      [2022-02-09 Wed 22:52]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 14:20]--[2022-02-09 Wed 14:21] =>  0:01
+:END:
+[2022-02-09 Wed 14:20]
+**** DONE lion man time 
+CLOSED: [2022-02-21 Mon 21:45] DEADLINE: <2022-02-22 Tue 23:40 +0d> SCHEDULED: <2022-02-22 Tue 22:40 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:24]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:24]
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:23]
+- State "DONE"       from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "TODO"       [2022-02-18 Fri 08:57]
+- State "DONE"       from "TODO"       [2022-02-17 Thu 08:15]
+- State "DONE"       from "TODO"       [2022-02-16 Wed 09:02]
+- State "DONE"       from "TODO"       [2022-02-14 Mon 23:51]
+- State "CANCEL"     from "TODO"       [2022-02-14 Mon 11:05]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:47]
+- State "CANCEL"     from "TODO"       [2022-02-11 Fri 20:32]
+- State "DONE"       from "TODO"       [2022-02-10 Thu 08:54]
+- State "DONE"       from "DOING"      [2022-02-10 Thu 08:54]
+:LOGBOOK:
+CLOCK: [2022-02-09 Wed 14:21]--[2022-02-09 Wed 14:22] =>  0:01
+:END:
+[2022-02-09 Wed 14:21]
+**** DONE code goactor 
+CLOSED: [2022-02-21 Mon 21:45] DEADLINE: <2022-02-22 Tue 13:40 +0d> SCHEDULED: <2022-02-22 Tue 12:30 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2022-02-21 Mon 21:25]
+:END:
+- State "CANCEL"     from "TODO"       [2022-02-21 Mon 21:25]
+- State "DONE"       from "TODO"       [2022-02-21 Mon 21:24]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 17:26]
+- State "CANCEL"     from "TODO"       [2022-02-19 Sat 09:17]
+- State "DONE"       from "DOING"      [2022-02-17 Thu 14:14]
+- State "DONE"       from "DOING"      [2022-02-16 Wed 13:40]
+- State "DONE"       from "DOING"      [2022-02-15 Tue 13:41]
+- State "DONE"       from "DOING"      [2022-02-14 Mon 13:30]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:48]
+- State "CANCEL"     from "TODO"       [2022-02-13 Sun 13:47]
+- State "CANCEL"     from "TODO"       [2022-02-11 Fri 13:38]
+- State "CANCEL"     from "TODO"       [2022-02-10 Thu 09:06]
+:LOGBOOK:
+CLOCK: [2022-02-16 Wed 13:01]--[2022-02-16 Wed 13:40] =>  0:39
+CLOCK: [2022-02-09 Wed 20:44]--[2022-02-09 Wed 20:46] =>  0:02
+:END:
+[2022-02-09 Wed 20:44]
+
+*** 2022-02-15 Tuesday
+
+*** 2022-02-21 Monday
+****  leetcode time 
+DEADLINE: <2022-02-22 Tue 09:40 +1d> SCHEDULED: <2022-02-22 Tue 08:11 +1d>
+:LOGBOOK:
+:END:
+[2022-02-21 Mon 21:48]
+****  build body and read free books 
+DEADLINE: <2022-02-22 Tue 13:40 +1d> SCHEDULED: <2022-02-22 Tue 12:00 +1d>
+:LOGBOOK:
+:END:
+[2022-02-21 Mon 21:53]
+****  Read <<algorithm>> 
+DEADLINE: <2022-02-22 Tue 23:00 +1d> SCHEDULED: <2022-02-22 Tue 21:00 +1d>
+:LOGBOOK:
+:END:
+[2022-02-21 Mon 21:57]
+****  ready for sleep 
+SCHEDULED: <2022-02-23 Wed 23:01 +1d> DEADLINE: <2022-02-22 Tue 23:30 +1d>
+:LOGBOOK:
+:END:
+[2022-02-21 Mon 22:00]
